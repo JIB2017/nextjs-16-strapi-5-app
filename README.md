@@ -1,0 +1,1 @@
+# nextjs-16-strapi-5-app
